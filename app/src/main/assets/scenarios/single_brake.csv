@@ -1,0 +1,6 @@
+timestamp_ms,speed_mps,steering_deg,quality
+0,15.0,,VALID
+1000,15.0,,VALID
+2000,8.0,,VALID
+3000,8.0,,VALID
+4000,8.0,,VALID
